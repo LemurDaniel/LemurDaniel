@@ -7,7 +7,7 @@ const Daniel = {
     hobbys: ["Programming🧑‍💻", "3D Art🎨", "Space Stuff🧑‍🚀"],
     code: ["JS Node", "C# .Net Core", "Powershell", "Java"],
     technologies: {
-        devOps: ["Terraform", "Docker🐳", "GIT"],
+        devOps: ["Terraform", "Docker🐳", "Git"],
         databases: ["SQL", "NoSQL Key-Value-pair"],
         tools: ["VS Code", "Postman"],
         cloud: ["Azure"],
