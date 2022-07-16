@@ -41,7 +41,6 @@ CSS                      8 mins              ░░░░░░░░░░░�
   - 🎉 [Seek and Evade](https://editor.p5js.org/DanielL/full/EBHVYNqTJ)
   - 💥 [Recursive Explosions](https://editor.p5js.org/DanielL/full/enkxbZWm1)
   - 🚀 [Primitive Arrival with PID](https://editor.p5js.org/DanielL/full/3Q_k9lUO8)
-  - 🌑 [Primitive Asteroid Game](https://editor.p5js.org/DanielL/full/h2UNZ_F_x)
   - 👾 [Vector Thrust](https://editor.p5js.org/DanielL/full/z8Mqzazzs)
 
 </details>
