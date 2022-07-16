@@ -31,5 +31,5 @@ jobs:
           SHOW_TIMEZONE: false
           SHOW_EDITORS: false
           SHOW_OS: false
-          SYMBOL_VERSION: 2
+          SYMBOL_VERSION: 3
           UPDATED_DATE_FORMAT: "%d. %B - %H:%M:%S"
