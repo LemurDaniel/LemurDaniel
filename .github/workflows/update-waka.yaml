@@ -1,6 +1,11 @@
 name: Udpate Waka Readme
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**/update-waka.yaml'
   schedule:
     - cron: '0 */4 * * *'
   workflow_dispatch:
