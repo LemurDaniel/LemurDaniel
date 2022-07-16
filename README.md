@@ -33,9 +33,8 @@ CSS                      8 mins              ░░░░░░░░░░░�
 
 👾 [Checkout some Semi-Fun Game](https://lemurdaniel.github.io/DEMO__react-github-pages-test/)
 
-##### :wastebasket: Some other Quick Garbage
 <details>
-  <summary></summary>
+  <summary>:wastebasket: Some other Quick Garbage</summary>
   
   - 🎆 [Fireworks](https://editor.p5js.org/DanielL/full/3Q-JY7VGG)
   - 📐 [Sin/Cos Visualisation](https://editor.p5js.org/DanielL/sketches/Z4zcGhwxK)
