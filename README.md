@@ -1,6 +1,23 @@
 
 ## LemurDaniel 👾
 
+```javascript
+const Daniel = {
+    pronouns: "He" | "Him",
+    hobbys: ["Programming🧑‍💻", "3D Art🎨", "Space Stuff🧑‍🚀"],
+    code: ["JS Node", "C# .Net Core", "Powershell", "Java"],
+    technologies: {
+        devOps: ["Terraform", "Docker🐳", "GIT"],
+        databases: ["SQL", "NoSQL Key-Value-pair"],
+        tools: ["VS Code", "Postman"],
+        cloud: ["Azure"],
+
+    },
+    currentFocus: "Advances in World Domination 🌍 (Don't tell anyone!)",
+    litteBitsOfMe: Buffer.from([0b01110010, 0b01101111, 0b01100010, 0b01101111, 0b01110100])
+};
+```
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2037%20mins-blue)
 
