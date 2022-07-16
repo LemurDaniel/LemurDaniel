@@ -30,3 +30,4 @@ CSS                      8 mins              ░░░░░░░░░░░�
 
  Last Updated on 16. July - 18:43:37 UTC
 <!--END_SECTION:waka-->
+(Also inclueds commits to non-git repos from work)
