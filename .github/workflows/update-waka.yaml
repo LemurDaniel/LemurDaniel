@@ -30,4 +30,4 @@ jobs:
           SHOW_LANGUAGE: true
           SHOW_OS: false
           SYMBOL_VERSION: 2
-          UPDATED_DATE_FORMAT: "%m/%Y %H:%M:%S %d. %M %Y"
+          UPDATED_DATE_FORMAT: "%H:%M %d.%B %Y"
