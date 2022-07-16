@@ -1,5 +1,5 @@
 
-👾 LemurDaniel 👾
+## LemurDaniel 👾
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-233%20hrs%2037%20mins-blue)
@@ -26,7 +26,6 @@ JSON                     58 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 CSS                      8 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.99%
 
 ```
-
 
  Last Updated on 16. July - 18:19:40 UTC
 <!--END_SECTION:waka-->
