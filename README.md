@@ -30,3 +30,19 @@ CSS                      8 mins              ░░░░░░░░░░░�
 
  Last Updated on 16. July - 18:43:37 UTC
 <!--END_SECTION:waka-->
+
+👾 [Checkout some Semi-Fun Game](https://lemurdaniel.github.io/DEMO__react-github-pages-test/)
+
+##### :wastebasket: Some other Quick Garbage
+<details>
+  <summary></summary>
+  
+  - 🎆 [Fireworks](https://editor.p5js.org/DanielL/full/3Q-JY7VGG)
+  - 📐 [Sin/Cos Visualisation](https://editor.p5js.org/DanielL/sketches/Z4zcGhwxK)
+  - 🎉 [Seek and Evade](https://editor.p5js.org/DanielL/full/EBHVYNqTJ)
+  - 💥 [Recursive Explosions](https://editor.p5js.org/DanielL/full/enkxbZWm1)
+  - 🚀 [Primitive Arrival with PID](https://editor.p5js.org/DanielL/full/3Q_k9lUO8)
+  - 👾 [Vector Thrust](https://editor.p5js.org/DanielL/full/z8Mqzazzs)
+  - 🌑 [Primitive Asteroid Game](https://editor.p5js.org/DanielL/full/h2UNZ_F_x)
+
+</details>
