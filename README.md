@@ -37,7 +37,7 @@ CSS                      8 mins              ░░░░░░░░░░░�
   <summary>:wastebasket: Some other Quick Garbage</summary>
   
   - 🎆 [Fireworks](https://editor.p5js.org/DanielL/full/3Q-JY7VGG)
-  - 📐 [Sin/Cos Visualisation](https://editor.p5js.org/DanielL/sketches/Z4zcGhwxK)
+  - 📐 [Sin/Cos Visualisation](https://editor.p5js.org/DanielL/full/Z4zcGhwxK)
   - 🎉 [Seek and Evade](https://editor.p5js.org/DanielL/full/EBHVYNqTJ)
   - 💥 [Recursive Explosions](https://editor.p5js.org/DanielL/full/enkxbZWm1)
   - 🚀 [Primitive Arrival with PID](https://editor.p5js.org/DanielL/full/3Q_k9lUO8)
