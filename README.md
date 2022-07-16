@@ -9,7 +9,7 @@ const Daniel = {
     technologies: {
         devOps: ["Terraform", "Docker🐳", "Git"],
         databases: ["SQL", "NoSQL Key-Value-pair"],
-        tools: ["VS Code", "Postman"],
+        tools: ["VS Code", "Postman", "Fiddler Classic"],
         cloud: ["Azure"],
     },
     currentFocus: "Advances in World Domination 🌍 (Don't tell anyone!)",
