@@ -11,7 +11,6 @@ const Daniel = {
         databases: ["SQL", "NoSQL Key-Value-pair"],
         tools: ["VS Code", "Postman"],
         cloud: ["Azure"],
-
     },
     currentFocus: "Advances in World Domination 🌍 (Don't tell anyone!)",
     litteBitsOfMe: Buffer.from([0b01110010, 0b01101111, 0b01100010, 0b01101111, 0b01110100])
