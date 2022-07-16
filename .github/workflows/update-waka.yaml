@@ -22,3 +22,4 @@ jobs:
           SHOW_EDITORS: false
           SHOW_OS: false
           SYMBOL_VERSION: 2
+          UPDATED_DATE_FORMAT: "%m/%Y %H:%M:%S %d. %M %Y"
