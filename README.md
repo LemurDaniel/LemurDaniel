@@ -58,5 +58,6 @@ HTML                     38 mins             ░░░░░░░░░░░�
   - 💥 [Recursive Explosions](https://editor.p5js.org/DanielL/full/enkxbZWm1)
   - 🚀 [Primitive Arrival with PID](https://editor.p5js.org/DanielL/full/3Q_k9lUO8)
   - 👾 [Vector Thrust](https://editor.p5js.org/DanielL/full/z8Mqzazzs)
+  - 🎨 [old basdish attempt at HSL-Picker (not working properly)](https://editor.p5js.org/DanielL/full/GUeuo8r6d)
 
 </details>
