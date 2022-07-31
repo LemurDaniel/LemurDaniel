@@ -18,7 +18,7 @@ const Daniel = {
 ```
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-312%20hrs%2041%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -44,7 +44,7 @@ PowerShell               2 hrs 8 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 31. July - 04:14:48 UTC
+ Last Updated on 31. July - 08:02:41 UTC
 <!--END_SECTION:waka-->
 
 👾 [Checkout some Semi-Fun Game](https://lemurdaniel.github.io/DEMO__react-github-pages-test/)
