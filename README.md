@@ -35,15 +35,12 @@ const Daniel = {
 
 ```text
 💬 Programming Languages: 
-JSON                     1 hr 26 mins        ████████████░░░░░░░░░░░░░   47.54% 
-Terraform                56 mins             ███████░░░░░░░░░░░░░░░░░░   31.28% 
-PowerShell               25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.1%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 27. August - 00:05:42 UTC
+ Last Updated on 27. August - 04:24:56 UTC
 <!--END_SECTION:waka-->
 
 👾 [Checkout some Semi-Fun Game](https://lemurdaniel.github.io/DEMO__react-github-pages-test/)
