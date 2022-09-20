@@ -59,6 +59,6 @@ YAML                     1 hr 1 min          █░░░░░░░░░░�
   - 🚀 [Primitive Arrival with PID](https://editor.p5js.org/DanielL/full/3Q_k9lUO8)
   - 👾 [Vector Thrust](https://editor.p5js.org/DanielL/full/z8Mqzazzs)
   - 🌀 [Weird Spirals](https://editor.p5js.org/DanielL/full/VqfTl5l-k)
-  - 🎨 [old basdish attempt at HSL-Picker (not working properly)](https://editor.p5js.org/DanielL/full/GUeuo8r6d)
+  - 🎨 [old badish attempt at HSL-Picker (not working properly)](https://editor.p5js.org/DanielL/full/GUeuo8r6d)
 
 </details>
