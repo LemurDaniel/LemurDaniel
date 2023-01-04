@@ -7,7 +7,6 @@ on:
     paths:
       - '**/update-waka.yaml'
   schedule:
-    - cron: '0 */4 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
