@@ -1,5 +1,5 @@
 
-## LemurDaniel 👾
+## Mostly stupid stuff
 
 ```javascript
 const Daniel = {
@@ -29,23 +29,6 @@ const Daniel = {
 🌙 Night      55 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.1%
 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Terraform                7 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   42.82% 
-JSON                     5 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   34.34% 
-PowerShell               1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
-Other                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.06% 
-YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.07%
-
-```
-
-
- Last Updated on 21. October - 08:03:26 UTC
-<!--END_SECTION:waka-->
 
 👾 [Checkout some Semi-Fun Game](https://lemurdaniel.github.io/DEMO__react-github-pages-test/)
 
