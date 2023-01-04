@@ -17,19 +17,6 @@ const Daniel = {
 };
 ```
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2025%20mins-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.21% 
-🌆 Daytime    86 commits     ███████░░░░░░░░░░░░░░░░░░   29.86% 
-🌃 Evening    132 commits    ███████████░░░░░░░░░░░░░░   45.83% 
-🌙 Night      55 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.1%
-
-```
-
 👾 [Checkout some Semi-Fun Game](https://lemurdaniel.github.io/DEMO__react-github-pages-test/)
 
 <details>
