@@ -1,21 +1,6 @@
 
 ## Mostly stupid stuff
 
-```javascript
-const Daniel = {
-    pronouns: "He" | "Him",
-    hobbys: ["Programming🧑‍💻", "3D Art🎨", "Space Stuff🧑‍🚀"],
-    code: ["JS Node", "C# .Net Core", "Powershell", "Java"],
-    technologies: {
-        devOps: ["Terraform", "Docker🐳", "Git"],
-        databases: ["SQL", "NoSQL Key-Value-pair"],
-        tools: ["VS Code", "Postman", "Fiddler Classic"],
-        cloud: ["Azure"],
-    },
-    currentFocus: "Advances in World Domination 🌍 (Don't tell anyone!)",
-    littleBitsOfMe: Buffer.from([0b01110010, 0b01101111, 0b01100010, 0b01101111, 0b01110100])
-};
-```
 
 👾 [Checkout some Semi-Fun Game](https://lemurdaniel.github.io/DEMO__react-github-pages-test/)
 
