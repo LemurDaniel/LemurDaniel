@@ -5,12 +5,13 @@
 const Daniel = {
     pronouns: "He" | "Him",
     hobbys: ["Programming🧑‍💻", "3D Art🎨", "Space Stuff🧑‍🚀"],
-    code: ["JS Node", "C# .Net Core", "Powershell", "Java"],
+    code: ["JS Node.js", "Powershell", "C# .NET", "Java"],
     technologies: {
-        devOps: ["Terraform", "Docker🐳", "Git"],
-        databases: ["SQL", "NoSQL Key-Value-pair"],
-        tools: ["VS Code", "Postman", "Fiddler Classic"],
         cloud: ["Azure"],
+        devops: ["terraform", "docker🐳", "k8s"],
+        databases: ["SQL", "NoSQL Key-Value-pair"],
+        tools: ["VS Code", "Azure DevOps", "Postman"],
+        other: ["Microsoft PowerBi"]
     },
     currentFocus: "Advances in World Domination 🌍 (Don't tell anyone!)",
     littleBitsOfMe: Buffer.from([0b01110010, 0b01101111, 0b01100010, 0b01101111, 0b01110100])
