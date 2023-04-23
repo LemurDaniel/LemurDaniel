@@ -23,7 +23,7 @@ const Daniel = {
 
 Current Projects:
 - [VS Code Extension: Azure DevOps](https://github.com/LemurDaniel/PROJECT__VSCode_extension_devops_scripts_testing)
-- [Powershell-Module for Automating my (work-)life](https://github.com/LemurDaniel/PROJECT__Powershell_Profile)
+- [Powershell-Module for automating my (Work-)life](https://github.com/LemurDaniel/PROJECT__Powershell_Profile)
 
 ---
 
