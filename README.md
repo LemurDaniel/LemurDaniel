@@ -17,14 +17,13 @@ const Daniel = {
         other: ["Microsoft PowerBi"]
     },
     currentFocus: "Advances in World Domination 🌍 (Don't tell anyone!)",
-    littleBitsOfMe: Buffer.from([0b01110010, 0b01101111, 0b01100010, 0b01101111, 0b01110100])
+    littleBitsOfMe: Buffer.from([0b01110010, 0b01101111, 0b01100010, 0b01101111, 0b01110100]),
+    currentProjects: [
+        "VS Code Extension: Azure DevOps",
+        "Powershell-Module: Automating my (Work-)life"
+    ]
 };
 ```
-
-Current Projects:
-- [VS Code Extension: Azure DevOps](https://github.com/LemurDaniel/PROJECT__VSCode_extension_devops_scripts_testing)
-- [Powershell-Module for automating my (Work-)life](https://github.com/LemurDaniel/PROJECT__Powershell_Profile)
-
 ---
 
 <details>
