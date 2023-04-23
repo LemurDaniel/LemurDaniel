@@ -1,6 +1,9 @@
 
 ## Mostly stupid stuff
 
+
+👾 [Checkout some Semi-Fun Game](https://lemurdaniel.github.io/DEMO__react-github-pages-test/)
+
 ```javascript
 const Daniel = {
     pronouns: "He" | "Him",
@@ -18,7 +21,11 @@ const Daniel = {
 };
 ```
 
-👾 [Checkout some Semi-Fun Game](https://lemurdaniel.github.io/DEMO__react-github-pages-test/)
+Current Projects:
+- [VS Code Extension: Azure DevOps](https://github.com/LemurDaniel/PROJECT__VSCode_extension_devops_scripts_testing)
+- [Powershell-Module for Automating my (work-)life](https://github.com/LemurDaniel/PROJECT__Powershell_Profile)
+
+---
 
 <details>
   <summary>:wastebasket: Some other Quick Garbage</summary>
