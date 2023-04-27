@@ -20,6 +20,7 @@ const Daniel = {
     littleBitsOfMe: Buffer.from([0b01110010, 0b01101111, 0b01100010, 0b01101111, 0b01110100]),
     currentProjects: [
         "VS Code Extension: Azure DevOps",
+        "VS Code Extension: Terraform Quick Docs",
         "Powershell-Module: Automating my (Work-)life"
     ]
 };
