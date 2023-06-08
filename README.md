@@ -16,7 +16,6 @@ const Daniel = {
         tools: ["VS Code", "Azure DevOps", "Postman"],
         other: ["Microsoft PowerBi"]
     },
-    currentFocus: "Advances in World Domination 🌍 (Don't tell anyone!)",
     littleBitsOfMe: Buffer.from([0b01110010, 0b01101111, 0b01100010, 0b01101111, 0b01110100]),
     currentProjects: [
         "VS Code Extension: Azure DevOps",
