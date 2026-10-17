@@ -48,14 +48,6 @@ const Daniel = {
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemurDaniel&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/LemurDaniel)
-
-</div>
-
 ---
 
 <details>
