@@ -52,10 +52,7 @@ const Daniel = {
 
 <div align="center">
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=LemurDaniel&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/LemurDaniel)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemurDaniel&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/LemurDaniel)
-
-[![Streak](https://streak-stats.demolab.com/?user=LemurDaniel&theme=tokyonight&hide_border=true)](https://github.com/LemurDaniel)
 
 </div>
 
