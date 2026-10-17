@@ -4,8 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Cloud+%26+DevOps+Tinkerer+%E2%98%81%EF%B8%8F;Builds+AI+Skills+%26+Agents+%F0%9F%A4%96;Automates+everything+with+Powershell+%E2%9A%A1;3D+Art+%2B+Space+Nerd+%F0%9F%9A%80)](https://github.com/LemurDaniel)
 
-[![GitHub followers](https://img.shields.io/github/followers/LemurDaniel?style=for-the-badge&logo=github&color=30363d)](https://github.com/LemurDaniel)
-
 </div>
 
 ---
