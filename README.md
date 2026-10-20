@@ -65,3 +65,7 @@ const Daniel = {
   - 👾 [Vector Thrust](https://editor.p5js.org/DanielL/full/z8Mqzazzs)
 
 </details>
+
+---
+
+<sub>🤖 **AI-Disclaimer:** Mittlerweile ist eine Menge Code in meinen Repos mit Claude Code entstanden. Die Ideen sind von mir, die Tippfehler inzwischen seltener. Wenn etwas komisch aussieht: Es war garantiert die AI. 😇</sub>
