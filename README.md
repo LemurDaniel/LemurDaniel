@@ -42,13 +42,13 @@ const Daniel = {
 
 <a href="https://github.com/LemurDaniel/Infrastructure-as-Skills-Azure"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LemurDaniel&repo=Infrastructure-as-Skills-Azure&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=21600" alt="Infrastructure-as-Skills-Azure"/></a>
 <a href="https://github.com/LemurDaniel/terraform-provider-naming"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LemurDaniel&repo=terraform-provider-naming&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=21600" alt="terraform-provider-naming"/></a>
-<a href="https://github.com/LemurDaniel/terraform-random-templatefile"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LemurDaniel&repo=terraform-random-templatefile&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=21600" alt="terraform-random-templatefile"/></a>
-<a href="https://github.com/LemurDaniel/Infrastructure-by-Skill"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LemurDaniel&repo=Infrastructure-by-Skill&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=21600" alt="Infrastructure-by-Skill"/></a>
+<a href="https://github.com/LemurDaniel/ESP32__Server-Management"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LemurDaniel&repo=ESP32__Server-Management&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=21600" alt="ESP32__Server-Management"/></a>
+<a href="https://github.com/LemurDaniel/VSCode__terraform_quick_docs"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LemurDaniel&repo=VSCode__terraform_quick_docs&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=21600" alt="VSCode__terraform_quick_docs"/></a>
 
 [![Provider](https://img.shields.io/badge/Registry-provider%2Fnaming-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://registry.terraform.io/providers/LemurDaniel/naming/latest)
-[![Module templatefile](https://img.shields.io/badge/Registry-templatefile%2Frandom-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://registry.terraform.io/modules/LemurDaniel/templatefile/random/latest)
+[![Module naming](https://img.shields.io/badge/Registry-naming%2Frandom-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://registry.terraform.io/modules/LemurDaniel/naming/random/latest)
 
-<sub>🏷️ Naming-Provider (Go) · 📦 Registry-Modul · 🧪 Prototyp: ClickOps als Skill-Runbooks</sub>
+<sub>🧪 Infrastructure as Skills · 🏷️ Naming-Provider (Go) &amp; Registry-Modul · 🔌 ESP32 Server-Switch · 🧩 VS-Code-Extension</sub>
 
 </div>
 
