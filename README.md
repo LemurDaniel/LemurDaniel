@@ -38,7 +38,12 @@ const Daniel = {
 
 <div align="center">
 
-> 🧪 **Aktuell am meisten im Fokus:** [Infrastructure as Skills](https://github.com/LemurDaniel/Infrastructure-as-Skills-Azure) — ein Experiment: Claude-Code-Plugin, das Azure-Infrastruktur als Terraform oder Bicep rendern soll. *Work in progress.*
+<a href="https://github.com/LemurDaniel/Infrastructure-as-Skills-Azure"><img width="80%" src="https://raw.githubusercontent.com/LemurDaniel/Infrastructure-as-Skills-Azure/master/docs/social-preview.png" alt="Infrastructure as Skills for Azure: ein Interview wird zur Spec, daraus Terraform oder Bicep auf Azure Verified Modules"/></a>
+
+```
+/plugin marketplace add LemurDaniel/Infrastructure-as-Skills-Azure
+/plugin install infrastructure-as-skills-azure
+```
 
 <a href="https://github.com/LemurDaniel/Infrastructure-as-Skills-Azure"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LemurDaniel&repo=Infrastructure-as-Skills-Azure&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=21600" alt="Infrastructure-as-Skills-Azure"/></a>
 <a href="https://github.com/LemurDaniel/terraform-provider-naming"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LemurDaniel&repo=terraform-provider-naming&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=21600" alt="terraform-provider-naming"/></a>
