@@ -45,10 +45,12 @@ const Daniel = {
 /plugin install infrastructure-as-skills-azure
 ```
 
-<a href="https://github.com/LemurDaniel/terraform-provider-naming"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LemurDaniel&repo=terraform-provider-naming&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=21600" alt="terraform-provider-naming"/></a>
-<a href="https://github.com/LemurDaniel/Infrastructure-as-Skills-Azure"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LemurDaniel&repo=Infrastructure-as-Skills-Azure&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=21600" alt="Infrastructure-as-Skills-Azure"/></a>
-<a href="https://github.com/LemurDaniel/ESP32__Server-Management"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LemurDaniel&repo=ESP32__Server-Management&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=21600" alt="ESP32__Server-Management"/></a>
-<a href="https://github.com/LemurDaniel/VSCode__devops_scripts"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=LemurDaniel&repo=VSCode__devops_scripts&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=21600" alt="VSCode__devops_scripts"/></a>
+<!-- PIN-CARDS:START -->
+<a href="https://github.com/LemurDaniel/terraform-provider-naming"><img width="49%" src="./assets/pin.terraform-provider-naming.svg" alt="terraform-provider-naming"/></a>
+<a href="https://github.com/LemurDaniel/Infrastructure-as-Skills-Azure"><img width="49%" src="./assets/pin.Infrastructure-as-Skills-Azure.svg" alt="Infrastructure-as-Skills-Azure"/></a>
+<a href="https://github.com/LemurDaniel/ESP32__Server-Management"><img width="49%" src="./assets/pin.ESP32__Server-Management.svg" alt="ESP32__Server-Management"/></a>
+<a href="https://github.com/LemurDaniel/VSCode__devops_scripts"><img width="49%" src="./assets/pin.VSCode__devops_scripts.svg" alt="VSCode__devops_scripts"/></a>
+<!-- PIN-CARDS:END -->
 
 [![Provider](https://img.shields.io/badge/Registry-provider%2Fnaming-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://registry.terraform.io/providers/LemurDaniel/naming/latest)
 [![Module naming](https://img.shields.io/badge/Registry-naming%2Frandom-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://registry.terraform.io/modules/LemurDaniel/naming/random/latest)

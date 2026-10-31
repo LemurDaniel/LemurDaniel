@@ -1,0 +1,66 @@
+name: Update Pin Cards
+
+# =============================================================================
+# Reads the pinned repositories of the profile, renders them as 'assets/pin.<repository>.svg',
+# rewrites the PIN-CARDS block in the README and commits both.
+# Replaces the paused github-readme-stats.vercel.app instance.
+#
+# Authentication:
+#   GITHUB_TOKEN of the run, used for the GraphQL API and the commit.
+#   ==> no additional secrets needed.
+#
+# Owner of the pinned repositories:
+#   .github/pin-cards.json
+#
+# NOTE:
+#   Pinning or unpinning on GitHub triggers no event, so changes show up with the next scheduled run.
+#   Run the workflow manually to apply them right away.
+# =============================================================================
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # daily at 04:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/pin-cards.json
+      - .github/workflows/update.pin-cards.yaml
+      - .scripts/Update-PinCard.ps1
+
+permissions:
+  contents: write   # commit the rendered cards
+
+concurrency:
+  group: update-pin-cards
+  cancel-in-progress: true
+
+jobs:
+
+  # ---------------------------------------------------------------------------
+  # Render and commit
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render pin cards
+        shell: pwsh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: ./.scripts/Update-PinCard.ps1 -Verbose
+
+      # Pushes made with GITHUB_TOKEN do not trigger workflows, so this cannot loop.
+      - name: Commit changed cards
+        shell: pwsh
+        run: |
+          if ([System.String]::IsNullOrEmpty((git status --porcelain -- assets README.md))) {
+              Write-Host '[Update-PinCard] No card changed -> nothing to commit.'
+              return
+          }
+
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets README.md
+          git commit -m 'Update pin cards'
+          git push
