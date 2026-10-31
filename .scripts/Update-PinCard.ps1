@@ -58,6 +58,12 @@ param (
 # ===========================================================================
 # ==============================   SETTINGS   ===============================
 # ===========================================================================
+#
+#   Layout   Card size, text wrapping, Tokyo Night colors and Octicon paths.
+#            Change these to restyle all cards at once.
+#   GitHub   The GraphQL query for the pinned repositories and the README
+#            markers that frame the generated block.
+#
 
 # ---------------------------------------------------------------------------
 # Layout
@@ -112,6 +118,12 @@ $README_MARKER_END   = '<!-- PIN-CARDS:END -->'
 # ===========================================================================
 # ===============================   HELPERS   ===============================
 # ===========================================================================
+#
+#   Split-TextLine       Wraps the description at word boundaries, max. 3 lines.
+#   Format-Count         Shortens counts like GitHub does (1.2k).
+#   Set-ChangedContent   Writes a file only when its content differs.
+#   Get-PinCardSvg       Builds the SVG of one card: header, description, footer.
+#
 
 # Splits a text into lines of at most $MaxChars, cut at word boundaries. The last line gets '…' when text is left over.
 function Split-TextLine {
@@ -217,6 +229,19 @@ function Get-PinCardSvg {
 # ===========================================================================
 # ================================   MAIN   =================================
 # ===========================================================================
+#
+#   1. Config        Loads the owner and resolves the GitHub token.
+#   2. Validations   Fails early on a missing owner, token or README marker.
+#   3. Read pinned   Fetches the pinned repositories via GraphQL (max. 6).
+#                    An empty result stops the run instead of wiping the README.
+#   4. Render cards  Writes one SVG per repository and removes cards that are
+#                    no longer pinned.
+#   5. README        Replaces the block between the PIN-CARDS markers with one
+#                    linked card per repository.
+#
+#   Files are only written when their content changed, so an unchanged run
+#   leaves the working tree clean and the workflow commits nothing.
+#
 
 # ---------------------------------------------------------------------------
 # Config
