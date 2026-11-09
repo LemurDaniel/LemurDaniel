@@ -49,7 +49,7 @@ const Daniel = {
 <a href="https://github.com/LemurDaniel/terraform-provider-naming"><img width="49%" src="./assets/pin.terraform-provider-naming.svg" alt="terraform-provider-naming"/></a>
 <a href="https://github.com/LemurDaniel/Infrastructure-as-Skills-Azure"><img width="49%" src="./assets/pin.Infrastructure-as-Skills-Azure.svg" alt="Infrastructure-as-Skills-Azure"/></a>
 <a href="https://github.com/LemurDaniel/VSCode__devops_scripts"><img width="49%" src="./assets/pin.VSCode__devops_scripts.svg" alt="VSCode__devops_scripts"/></a>
-<a href="https://github.com/LemurDaniel/claude-unwire"><img width="49%" src="./assets/pin.claude-unwire.svg" alt="claude-unwire"/></a>
+<a href="https://github.com/LemurDaniel/PowerShell-Software-Manager-Script"><img width="49%" src="./assets/pin.PowerShell-Software-Manager-Script.svg" alt="PowerShell-Software-Manager-Script"/></a>
 <!-- PIN-CARDS:END -->
 
 [![Provider](https://img.shields.io/badge/Registry-provider%2Fnaming-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://registry.terraform.io/providers/LemurDaniel/naming/latest)
